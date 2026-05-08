@@ -1,0 +1,37 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+*.map
+build/
+dist/
+out/
+
+# Object files
+*.obj
+*.lib
+*.exp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
